@@ -1,0 +1,16 @@
+C:\1150\72hr\72hr.Services\bin\Debug\72hr.Services.dll.config
+C:\1150\72hr\72hr.Services\bin\Debug\72hr.Services.dll
+C:\1150\72hr\72hr.Services\bin\Debug\72hr.Services.pdb
+C:\1150\72hr\72hr.Services\bin\Debug\EntityFramework.dll
+C:\1150\72hr\72hr.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\1150\72hr\72hr.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\1150\72hr\72hr.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\1150\72hr\72hr.Services\bin\Debug\EntityFramework.xml
+C:\1150\72hr\72hr.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\1150\72hr\72hr.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\1150\72hr\72hr.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\1150\72hr\72hr.Services\obj\Debug\72hr.Services.csprojAssemblyReference.cache
+C:\1150\72hr\72hr.Services\obj\Debug\72hr.Services.csproj.CoreCompileInputs.cache
+C:\1150\72hr\72hr.Services\obj\Debug\72hr.Services.csproj.CopyComplete
+C:\1150\72hr\72hr.Services\obj\Debug\72hr.Services.dll
+C:\1150\72hr\72hr.Services\obj\Debug\72hr.Services.pdb

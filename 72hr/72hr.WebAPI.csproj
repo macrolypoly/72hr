@@ -213,7 +213,6 @@
     </Compile>
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
-    <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Providers\ApplicationOAuthProvider.cs" />
     <Compile Include="Results\ChallengeResult.cs" />
@@ -306,6 +305,20 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\72hr.Data\72hr.Data.csproj">
+      <Project>{183a3fa3-bc1e-4abb-a00b-9b6181fc646b}</Project>
+      <Name>72hr.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\72hr.Models\72hr.Models.csproj">
+      <Project>{61dfd78f-e46a-46ba-a55f-fcb9750f02ec}</Project>
+      <Name>72hr.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\72hr.Services\72hr.Services.csproj">
+      <Project>{939578d8-498d-4bcc-bef8-17a1aebc8885}</Project>
+      <Name>72hr.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
