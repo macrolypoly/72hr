@@ -11,7 +11,7 @@ namespace _72hr.Data
     {
         public int Id { get; set; }
         public string Text { get; set; }
-        Guid AuthorId { get; set; }
+        public Guid AuthorId { get; set; }
         public virtual List<Reply> Replies { get; set; }
         [ForeignKey("Post")]
         public int PostId { get; set; }
