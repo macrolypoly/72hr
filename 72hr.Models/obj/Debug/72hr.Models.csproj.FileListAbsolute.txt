@@ -14,3 +14,19 @@ C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CoreCompileInputs.cache
 C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CopyComplete
 C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.dll
 C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.pdb
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\72hr.Models.dll.config
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\72hr.Models.dll
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\72hr.Models.pdb
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\EntityFramework.dll
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\EntityFramework.xml
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\obj\Debug\72hr.Models.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CopyComplete
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\obj\Debug\72hr.Models.dll
+C:\Users\Home PC\Desktop\teamGit\72h\72hr\72hr.Models\obj\Debug\72hr.Models.pdb
