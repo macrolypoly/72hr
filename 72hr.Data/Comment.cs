@@ -16,5 +16,8 @@ namespace _72hr.Data
         [ForeignKey("Post")]
         public int PostId { get; set; }
         public virtual Post Post { get; set; }
+
+        public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset? ModifiedUtc { get; set; }
     }
 }
