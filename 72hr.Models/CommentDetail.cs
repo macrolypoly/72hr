@@ -13,5 +13,5 @@ namespace _72hr.Models
         public DateTimeOffset CreatedUtc { get; set; }
         public DateTimeOffset? ModifiedUtc { get; set; }
     }
-    }
+    
 }
