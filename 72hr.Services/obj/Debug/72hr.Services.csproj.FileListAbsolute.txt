@@ -14,3 +14,9 @@ C:\1150\72hr\72hr.Services\obj\Debug\72hr.Services.csproj.CoreCompileInputs.cach
 C:\1150\72hr\72hr.Services\obj\Debug\72hr.Services.csproj.CopyComplete
 C:\1150\72hr\72hr.Services\obj\Debug\72hr.Services.dll
 C:\1150\72hr\72hr.Services\obj\Debug\72hr.Services.pdb
+C:\1150\72hr\72hr.Services\bin\Debug\72hr.Data.dll
+C:\1150\72hr\72hr.Services\bin\Debug\72hr.Models.dll
+C:\1150\72hr\72hr.Services\bin\Debug\72hr.Data.pdb
+C:\1150\72hr\72hr.Services\bin\Debug\72hr.Data.dll.config
+C:\1150\72hr\72hr.Services\bin\Debug\72hr.Models.pdb
+C:\1150\72hr\72hr.Services\bin\Debug\72hr.Models.dll.config
