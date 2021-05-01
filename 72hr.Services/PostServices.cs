@@ -39,6 +39,7 @@ namespace _72hr.Services
                                     {
                                         PostId = p.Id,
                                         Title = p.Title
+                                        
                                     });
                 return postquery.ToArray();
             }
@@ -46,8 +47,8 @@ namespace _72hr.Services
 
         public IEnumerable<PostDetail> GetPostByPostId(int id)
         {
-            using (var ctx = new ApplicationDbContext())
-            {
+            var ctx = new ApplicationDbContext();
+            
 
                 var post = ctx
                                 .Posts
@@ -57,7 +58,7 @@ namespace _72hr.Services
                                 {
                                     Id = p.Id,
                                     Title = p.Title,
-                                    postCommentDetail = ctx
+                                    comments = ctx
                                                             .Comments
                                                             .Where(c => c.PostId == p.Id)
                                                             .Select(c => new PostCommentDetail
@@ -65,12 +66,12 @@ namespace _72hr.Services
                                                                 Text = c.Text,
                                                                 CreatedUtc = c.CreatedUtc
                                                             }).ToList()
-                                });
+                                }).ToList();
 
 
 
                 return post;
-            }
+            
         }
 
     }
