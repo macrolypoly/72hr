@@ -14,3 +14,19 @@ C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CoreCompileInputs.cache
 C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CopyComplete
 C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.dll
 C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.pdb
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\obj\Debug\72hr.Models.csprojAssemblyReference.cache
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CoreCompileInputs.cache
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\obj\Debug\72hr.Models.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\obj\Debug\72hr.Models.pdb
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\72hr.Models.dll.config
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\72hr.Models.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\72hr.Models.pdb
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\EntityFramework.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\EntityFramework.xml
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CopyComplete

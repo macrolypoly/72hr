@@ -20,3 +20,25 @@ C:\1150\72hr\72hr.Services\bin\Debug\72hr.Data.pdb
 C:\1150\72hr\72hr.Services\bin\Debug\72hr.Data.dll.config
 C:\1150\72hr\72hr.Services\bin\Debug\72hr.Models.pdb
 C:\1150\72hr\72hr.Services\bin\Debug\72hr.Models.dll.config
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\obj\Debug\72hr.Services.csprojAssemblyReference.cache
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\obj\Debug\72hr.Services.csproj.CoreCompileInputs.cache
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\obj\Debug\72hr.Services.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\obj\Debug\72hr.Services.pdb
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\72hr.Services.dll.config
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\72hr.Services.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\72hr.Services.pdb
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\72hr.Data.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\72hr.Models.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\EntityFramework.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\72hr.Data.pdb
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\72hr.Data.dll.config
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\72hr.Models.pdb
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\72hr.Models.dll.config
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\EntityFramework.xml
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\adegb\OneDrive\foluso desktop 2\ElevenFifttyProjects_PartTwo\72hr\72hr.Services\obj\Debug\72hr.Services.csproj.CopyComplete
