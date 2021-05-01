@@ -10,7 +10,8 @@ namespace _72hr.Models
     public class CommentCreate
     {
         [Required]
-        public string Title { get; set; }
+        public int Id { get; set; }
         public string Text { get; set; }
+        public DateTimeOffset CreatedUtc { get; set; }
     }
 }

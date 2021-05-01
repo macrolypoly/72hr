@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace _72hr.Models
 {
-    public class CommentListItem
+    public class CommentEdit
     {
         public int CommentId { get; set; }
         public string Text { get; set; }
-        public DateTimeOffset CreatedUtc { get; set; }
     }
 }
