@@ -10,7 +10,7 @@ namespace _72hr.Data
     public class Like
     {
         public int Id { get; set; }
-        [ForeignKey("PostId")]
+        [ForeignKey("Post")]
         public int PostId { get; set; }
         public virtual Post Post { get; set; }
         public Guid OwnerId { get; set; }
