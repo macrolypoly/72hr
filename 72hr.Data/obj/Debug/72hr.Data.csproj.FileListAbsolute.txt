@@ -33,3 +33,5 @@ C:\1150\72hr\72hr.Data\obj\Debug\72hr.Data.csproj.CoreCompileInputs.cache
 C:\1150\72hr\72hr.Data\obj\Debug\72hr.Data.csproj.CopyComplete
 C:\1150\72hr\72hr.Data\obj\Debug\72hr.Data.dll
 C:\1150\72hr\72hr.Data\obj\Debug\72hr.Data.pdb
+C:\1150\72hr\72hr.Data\obj\Debug\_72hr.Data.Migrations.po.resources
+C:\1150\72hr\72hr.Data\obj\Debug\72hr.Data.csproj.GenerateResource.cache
