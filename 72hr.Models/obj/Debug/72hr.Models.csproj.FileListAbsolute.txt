@@ -14,3 +14,7 @@ C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CoreCompileInputs.cache
 C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CopyComplete
 C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.dll
 C:\1150\72hr\72hr.Models\obj\Debug\72hr.Models.pdb
+C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\obj\Debug\72hr.Models.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\obj\Debug\72hr.Models.dll
+C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\obj\Debug\72hr.Models.pdb

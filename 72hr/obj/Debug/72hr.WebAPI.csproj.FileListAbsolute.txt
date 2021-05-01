@@ -123,3 +123,7 @@ C:\1150\72hr\72hr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\1150\72hr\72hr\obj\Debug\72hr.WebAPI.csproj.CopyComplete
 C:\1150\72hr\72hr\obj\Debug\72hr.dll
 C:\1150\72hr\72hr\obj\Debug\72hr.pdb
+C:\ElevenFiftyProjects\72HourProject\72hr\72hr\obj\Debug\72hr.WebAPI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\72HourProject\72hr\72hr\obj\Debug\72hr.WebAPI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\72HourProject\72hr\72hr\obj\Debug\72hr.dll
+C:\ElevenFiftyProjects\72HourProject\72hr\72hr\obj\Debug\72hr.pdb
