@@ -29,8 +29,6 @@ C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\bin\Debug\EntityFramework.
 C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\obj\Debug\72hr.Models.csprojAssemblyReference.cache
-C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\obj\Debug\72hr.Models.csproj.CopyComplete
 >>>>>>> develop
 C:\ElevenFiftyProjects\72HourProject\72hr\72hr.Models\obj\Debug\72hr.Models.dll

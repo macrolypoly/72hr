@@ -33,16 +33,14 @@ namespace _72hr.Data
             return new ApplicationDbContext();
         }
         public DbSet<Post> Posts { get; set; }
-<<<<<<< HEAD
 
         public DbSet<Reply> Replies { get; set; }
 
         public DbSet<Comment> Comments { get; set; }
-=======
-        public DbSet<Comment> Comments { get; set; }
+
         public DbSet<Like> Likes { get; set; }
-        public DbSet<Reply> Replies { get; set; }
->>>>>>> develop
+
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
