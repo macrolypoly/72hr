@@ -60,5 +60,34 @@ namespace _72hr.Services
                 };
             }
         }
+        public bool UpdateComment(CommentEdit model)
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                    .Comments
+                    .Single(e => e.Id == model.CommentId && e.AuthorId == _userId);
+                entity.Id = model.CommentId;
+                entity.Text = model.Text;
+                entity.ModifiedUtc = DateTimeOffset.UtcNow;
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
+        public bool DeleteComment(int commentId)
+        {
+            using(var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                    .Comments
+                    .Single(e => e.Id == commentId && e.AuthorId == _userId);
+
+                ctx.Comments.Remove(entity);
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
     }
 }

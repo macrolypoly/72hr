@@ -37,5 +37,25 @@ namespace _72hr.Controllers
 
             return Ok();
         }
+        public IHttpActionResult Put(CommentEdit comment)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+            var service = CreateCommentService();
+
+            if (!service.UpdateComment(comment))
+                return InternalServerError();
+
+            return Ok();
+        }
+        public IHttpActionResult Delete(int id)
+        {
+            var service = CreateCommentService();
+
+            if (!service.DeleteComment(id))
+                return InternalServerError();
+
+            return Ok();
+        }
     }
 }
