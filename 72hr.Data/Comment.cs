@@ -11,10 +11,13 @@ namespace _72hr.Data
     {
         public int Id { get; set; }
         public string Text { get; set; }
-        Guid AuthorId { get; set; }
+        public Guid AuthorId { get; set; }
         public virtual List<Reply> Replies { get; set; }
-        [ForeignKey("PostId")]
+        [ForeignKey("Post")]
         public int PostId { get; set; }
         public virtual Post Post { get; set; }
+
+        public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset? ModifiedUtc { get; set; }
     }
 }
