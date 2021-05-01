@@ -32,6 +32,19 @@ namespace _72hr.Controllers
             return Ok();
         }
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+
+>>>>>>> develop
         private ReplyService CreateReplyService()
         {
             var userId = Guid.Parse(User.Identity.GetUserId());
