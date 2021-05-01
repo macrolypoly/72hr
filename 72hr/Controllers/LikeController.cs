@@ -5,7 +5,7 @@ using System.Web;
 
 namespace _72hr.Controllers
 {
-    public class LikeController
+    public class LikeController :ApiControllet
     {
     }
 }
